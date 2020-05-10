@@ -1,0 +1,39 @@
+body {
+    background-color: ghostwhite;
+}
+
+.conteiner {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.font {
+    font-family: sans-serif;
+    margin-top: 1.5em;
+    margin-bottom: auto;
+}
+
+.firstFont {
+    font-size: 32px;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+.caption {
+    font-style: italic;
+}
+
+.rightImg {
+    float: right;
+    margin-right: 0;
+}
+
+.imgTop {
+    margin-top: -50px;
+}
+
+
